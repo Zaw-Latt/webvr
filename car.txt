@@ -1,0 +1,3 @@
+A1=available	A2=available	A3=available
+B1=availale	B2=available	B3=available
+C1=available	C2=availabel	C3=available
